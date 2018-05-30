@@ -1,0 +1,11 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+}
+
+#particles-js {
+    height: 100%;
+    background-image: url('codehacker.jpg');
+    background-size: cover;
+}
